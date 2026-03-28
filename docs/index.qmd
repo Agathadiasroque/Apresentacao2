@@ -17,7 +17,7 @@ format:
     margin: 0.07
     auto-stretch: false
     title-slide-attributes:
-      data-background-image: "Capa.png"
+      data-background-image: "Capa - limpeza.png"
       data-background-size: cover
 ---
 
