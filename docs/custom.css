@@ -36,20 +36,16 @@
 
 
 /* ===== Slide de título ===== */
+
 .reveal .title-slide {
-  background: linear-gradient(
-    135deg,
-    #2563eb99 0%,   /* azul com transparência */
-    #7c3aed99 50%,   /* roxo com transparência */
-    #05966999 100%   /* verde com transparência */
-  );
-  color: #336699;
+  background: transparent; /* sem cor */
+  color: #2563eb; /* azul */
 }
 
 .reveal .title-slide h1,
 .reveal .title-slide h2,
 .reveal .title-slide p {
-  color: white;
+  color: #336699;
 }
 
 /* ===== Texto ===== */
