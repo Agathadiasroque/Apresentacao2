@@ -152,5 +152,5 @@ Os resultados demonstraram:
   - Atraso na chegada (p = 0,148; V = 0,140)
 3. Foi identificada associação estatisticamente significativa para atraso na partida (p = 0,044; V = 0,179), com magnitude fraca.
 4. Proporção de insatisfação:
-  - Com atraso apresentam proporção de insatisfação acima do esperado (38%)
-  - Sem atraso apresentam proporção inferior (21%), indicando maior satisfação relativa neste grupo. 
+  - Com atraso apresenta proporção de insatisfação acima do esperado (38%)
+  - Sem atraso apresenta proporção inferior (21%), indicando maior satisfação relativa neste grupo. 
