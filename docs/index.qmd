@@ -132,7 +132,7 @@ Porém um deles chamou atenção, quando avaliado o p-valor:
 <br>
 
 ::: box-blue
-Z<sub>0,25</sub> = 1,96
+Z<sub>0,025</sub> = 1,96
 :::
 
 
